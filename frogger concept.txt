@@ -1,0 +1,4 @@
+Grid system frogger:
+ - Vertical pos = 1-9 int
+ - horizontal pos: Percentage w/ 1 decimal: 1920 2*100.0-80*100.0
+ 
